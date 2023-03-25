@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Number Guessing Game</string>
+    <string name="try_to">Try to guess the number I\'m thinking of from 1 – 1000!</string>
+    <string name="your_guess">Your Guess</string>
+    <string name="higher">Hint: It\'s higher!</string>
+    <string name="lower">Hint: It\'s lower!</string>
+    <string name="play_again">PLAY AGAIN</string>
+</resources>
